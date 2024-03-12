@@ -1,5 +1,5 @@
 <h1 >Hello there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Artem Zhurkin</h1>
-<span style="font-family: 'Arial'"><h5>I'm a passionate and creative Frontend Developer dedicated to building engaging, high-performance web applications.I strive to bridge the gap between graphical design and technical implementation, bringing both to life in perfect harmony.</h5><span>
+<h5>I'm a passionate and creative Frontend Developer dedicated to building engaging, high-performance web applications.I strive to bridge the gap between graphical design and technical implementation, bringing both to life in perfect harmony.</h5>
 <a href="https://t.me/mrGATW" target="_blank">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
