@@ -1,7 +1,7 @@
 <h1 >Hello there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Artem Zhurkin</h1>
 
 
-<h5>I'm a passionate and creative Frontend Developer dedicated to building engaging, high-performance web applications. I strive to bridge the gap between graphical design and technical implementation, bringing both to life in perfect harmony.</h5>
+<h3>I'm a passionate and creative Frontend Developer dedicated to building engaging, high-performance web applications. I strive to bridge the gap between graphical design and technical implementation, bringing both to life in perfect harmony.</h3>
 
 
 
