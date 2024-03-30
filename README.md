@@ -24,6 +24,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![MobX](https://img.shields.io/badge/-MobX-000000?style=for-the-badge&logo=mobx&logoColor=FF9955)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 
 
