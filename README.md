@@ -23,7 +23,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=#7daafb)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=black)
+![MUI](https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux&logoColor=white)
 
 
