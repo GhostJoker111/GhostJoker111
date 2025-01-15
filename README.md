@@ -25,6 +25,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![MUI](https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux&logoColor=white)
+![Node](https://img.shields.io/badge/-Node-000000?style=for-the-badge&logo=node&logoColor=white)
 
 
 
