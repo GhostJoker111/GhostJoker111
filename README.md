@@ -25,7 +25,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![MUI](https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux&logoColor=white)
-![Node](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Node](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=Node.js&logoColor=white)
 
 
 
